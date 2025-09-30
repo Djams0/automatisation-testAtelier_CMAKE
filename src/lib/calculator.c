@@ -20,7 +20,3 @@ double _car(double a) {
 	return a*a;
 }
 	
-double _car(double b) {
-	return b*b;
-}
-	
