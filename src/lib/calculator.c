@@ -15,4 +15,12 @@ double _mul(double a, double b) {
 double _div(double a, double b) {
 	return a/b;
 }
+
+double _car(double a) {
+	return a*a;
+}
+	
+double _car(double b) {
+	return b*b;
+}
 	
